@@ -1,31 +1,5 @@
 Footer:
 
-# Interviewing for Technical Jobs
-## A manager/Sr. Developer's story
-
----
-## About Me
-
----
-# Agenda
-* Disclaimers/Ground Rules
-* My Background
-* Experiences being interviewee
-  * Company A (Rosh)
-  * Company B (Github)
-  * Company C (Hireology)
-  * Company D (Phishme)
-  * Company E (Healthfinch)
-* Experiences being interviewer
-  * What I was looking for
-  * What my co-workers were looking for
-  * The processes I have used
-    * Personal > Technical (ask questions, look at code) > team
-
----
-Tips
-* Answer your phone ![](https://imgur.com/r/AdviceAnimals/E7lCKDR)
-
 
 
 <!--
@@ -40,5 +14,33 @@ they want.
 
 -->
 
-## Research
-* https://medium.com/@turingschool/m5d1-your-job-is-not-advertised-9b9f7d9ad616
+# Interviewing for Technical Jobs
+## A manager/Sr. Developer's story
+
+![full](https://static.pexels.com/photos/320265/pexels-photo-320265.jpeg)
+
+---
+## About Me
+
+---
+# Agenda
+* Disclaimers/Ground Rules
+* My Background
+* Experiences being interviewee at 5 different companies
+* Experiences being interviewer
+  * What I was looking for
+  * What my co-workers were looking for
+  * The processes I have used
+    * Personal > Technical (ask questions, look at code) > team
+* Some general tips
+* Time for questions
+
+![full](https://images.pexels.com/photos/260759/pexels-photo-260759.jpeg)
+
+---
+Tips
+* Answer your phone
+
+![fit](https://imgur.com/r/AdviceAnimals/E7lCKDR)
+
+
